@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "D:/canvas/Finura/finura_frontend/linux",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.analysis.extraPaths": [
+        "./finura_backend/backend",
+        "./finura_backend/backend/database"
+    ]
+}

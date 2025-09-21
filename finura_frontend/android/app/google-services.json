@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500958659357",
+    "project_id": "finura-53b27",
+    "storage_bucket": "finura-53b27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500958659357:android:44e685f259f916751717f4",
+        "android_client_info": {
+          "package_name": "com.example.finura_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRg5n3i_GxPJW7yyotQvZWu7xAHAdyDV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

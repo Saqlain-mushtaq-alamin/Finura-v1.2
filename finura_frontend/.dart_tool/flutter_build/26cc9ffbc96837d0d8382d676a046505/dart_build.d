@@ -1,0 +1,1 @@
+ D:\\canvas\\Finura-v1.2\\finura_frontend\\.dart_tool\\flutter_build\\26cc9ffbc96837d0d8382d676a046505\\dart_build_result.json: 

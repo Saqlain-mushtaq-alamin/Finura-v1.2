@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">500958659357</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRg5n3i_GxPJW7yyotQvZWu7xAHAdyDV0</string>
+    <string name="google_app_id" translatable="false">1:500958659357:android:44e685f259f916751717f4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRg5n3i_GxPJW7yyotQvZWu7xAHAdyDV0</string>
+    <string name="google_storage_bucket" translatable="false">finura-53b27.firebasestorage.app</string>
+    <string name="project_id" translatable="false">finura-53b27</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

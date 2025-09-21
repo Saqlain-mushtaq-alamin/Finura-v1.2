@@ -1,0 +1,2 @@
+D:/canvas/Finura/finura_frontend/build/.cxx/Debug/1c463v5r/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/canvas/Finura/finura_frontend/build/.cxx/Debug/1c463v5r/arm64-v8a/CMakeFiles/rebuild_cache.dir
