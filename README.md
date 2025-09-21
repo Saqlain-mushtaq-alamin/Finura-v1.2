@@ -1,5 +1,9 @@
 # 📊 Finura – AI-Powered Personal Finance Assistant
 
+by saqlain musthaq alamin
+
+ 
+
 Finura is a **cross-platform, AI-driven budget management system** built to help users in both **cash-heavy economies (like Bangladesh)** and **digital economies (like the US)** manage money smarter.  
 
 It combines traditional finance tracking with **AI/ML insights** to not only log your income/expenses but also **predict spending behavior, monitor moods, and nudge you with smart notifications** so you stick to your saving plans.  
@@ -92,7 +96,7 @@ It combines traditional finance tracking with **AI/ML insights** to not only log
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Saqlain-mushtaq-alamin/Finura-v22.git 
+git clone https://github.com/Saqlain-mushtaq-alamin/Finura-v1.2.git 
 
 
 
